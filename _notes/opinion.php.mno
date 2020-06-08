@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Poll" value="name:opinion_id;datatype:int,name:parent_name;datatype:string,name:parent_number;datatype:string,name:opinion;datatype:string,name:curriculum;datatype:string,name:customer_service;datatype:string,name:children_teacher;datatype:string,name:environment;datatype:string,name:security;datatype:string" />
+</info>

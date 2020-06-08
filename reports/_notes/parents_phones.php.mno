@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_parent" value="name:name;datatype:string,name:office_phone;datatype:string,name:home_phone;datatype:string,name:mobile_phone;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:office_phone;datatype:string,name:mobile_phone;datatype:string" />
+</info>

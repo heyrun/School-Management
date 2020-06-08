@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Sinfo" value="name:staff_id;datatype:string,name:fname;datatype:string,name:lname;datatype:string" />
+	<infoitem key="UD_student" value="name:student_Lname;datatype:string,name:student_Fname;datatype:string,name:student_id;datatype:string" />
+	<infoitem key="UD_parents" value="name:parent_id;datatype:string,name:parent_lname;datatype:string,name:parent_fname;datatype:string" />
+</info>

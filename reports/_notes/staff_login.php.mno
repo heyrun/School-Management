@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_parent" value="name:parent_id;datatype:string,name:name;datatype:string" />
+	<infoitem key="UD_staff_user" value="name:name;datatype:string,name:user_name;datatype:string,name:access_level;datatype:string,name:login_id;datatype:int" />
+</info>

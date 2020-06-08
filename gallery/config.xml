@@ -1,0 +1,315 @@
+<gallery>
+
+
+     <items>
+          <item>
+
+
+
+               <source>gallery/images/1.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/2.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/3.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/4.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/5.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/6.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/7.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/8.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/9.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/10.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/11.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/12.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/13.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/14.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/15.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/16.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/17.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/18.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/19.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/20.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/21.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/22.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/23.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/24.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/25.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/26.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/27.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/28.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/29.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/30.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/31.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/32.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/33.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/34.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/35.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/36.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/37.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/38.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/39.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/40.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/41.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/42.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/43.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/44.jpg</source>
+          </item>
+          <item>
+
+
+
+               <source>gallery/images/45.jpg</source>
+          </item>
+     </items>
+     <galleryName>Stack Gallery</galleryName>
+     <settings>
+
+
+
+
+
+
+
+
+
+
+          <visibleImages>5</visibleImages>
+          <usePhotoNumbers>1</usePhotoNumbers>
+          <background>
+
+               <bgColor>16777215</bgColor>
+               <transparentBG>1</transparentBG>
+          </background>
+          <slideshow>0</slideshow>
+          <image>
+
+               <height>0</height>
+               <width>0</width>
+          </image>
+          <translation>
+
+               <back>BACK</back>
+               <gotoLink>GO TO LINK</gotoLink>
+          </translation>
+          <frameColor>16777215</frameColor>
+          <caption>
+
+               <fontName>Arial</fontName>
+               <color>0</color>
+          </caption>
+          <imageScaleMode>fill</imageScaleMode>
+          <useShadow>1</useShadow>
+     </settings>
+</gallery>

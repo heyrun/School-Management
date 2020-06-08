@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_parent" value="name:parent_id;datatype:string,name:name;datatype:string" />
+	<infoitem key="UD_class" value="name:class_id;datatype:int,name:class_name;datatype:string" />
+	<infoitem key="UD_number" value="name:number;datatype:int" />
+</info>

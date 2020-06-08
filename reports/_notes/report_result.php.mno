@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user_id" value="name:user_id;datatype:string" />
+	<infoitem key="UD_Pinfo" value="name:name;datatype:string,name:sex;datatype:string" />
+	<infoitem key="UD_child" value="name:student_id;datatype:string,name:name;datatype:string,name:class;datatype:int,name:picture;datatype:string" />
+	<infoitem key="UD_result" value="name:result_id;datatype:int,name:CAT;datatype:real,name:exam;datatype:real,name:grade;datatype:string,name:total;datatype:real,name:term;datatype:string,name:session;datatype:string,name:subject_name;datatype:string" />
+	<infoitem key="UD_student" value="name:SNAME;datatype:string,name:sex;datatype:string,name:class;datatype:int,name:class_name;datatype:string,name:student_id;datatype:string" />
+	<infoitem key="UD_attendance" value="name:present;datatype:int,name:absent;datatype:int,name:school;datatype:int" />
+	<infoitem key="UD_comment" value="name:comment;datatype:blob,name:report_id;datatype:int" />
+	<infoitem key="UD_skills" value="name:skill_id;datatype:int,name:listen;datatype:string,name:direction;datatype:string,name:respect;datatype:string,name:playground;datatype:string,name:participate;datatype:string,name:solve_problem;datatype:string,name:begin_work_prompty;datatype:string,name:complete_task;datatype:string,name:work_independent;datatype:string,name:work_with_other;datatype:string,name:controls_talkin;datatype:string,name:use_time;datatype:string,name:work_neatly;datatype:string,name:sport;datatype:string" />
+</info>

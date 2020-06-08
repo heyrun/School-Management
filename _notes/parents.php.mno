@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user_id" value="name:user_id;datatype:string" />
+	<infoitem key="UD_parentInfo" value="name:parent_fname;datatype:string,name:parent_lname;datatype:string,name:sex;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:parent_id;datatype:string,name:parent_fname;datatype:string,name:parent_lname;datatype:string,name:profession;datatype:string,name:office_address;datatype:string,name:home_address;datatype:string,name:office_phone;datatype:real,name:home_phone;datatype:real,name:mobile_phone;datatype:real,name:sex;datatype:string,name:origin;datatype:string,name:religion;datatype:string,name:username;datatype:string,name:password;datatype:string" />
+	<infoitem key="UD_Pinfo" value="name:name;datatype:string,name:sex;datatype:string" />
+	<infoitem key="UD_child" value="name:student_id;datatype:string,name:name;datatype:string,name:class;datatype:string,name:picture;datatype:string" />
+</info>

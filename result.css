@@ -1,0 +1,39 @@
+@charset "utf-8";
+.result_line {
+	border-bottom-width: thin;
+	border-bottom-style: dashed;
+	border-bottom-color: #333;
+}
+#content #report #form table tr td .result_holder tr td .result_line {
+	border: thin dashed #333;
+}
+#result_right {
+	float: right;
+	width: 240px;
+}
+.teacher_comment {
+	float: right;
+	width: 270px;
+	margin-left: 7px;
+	margin-top: 10px;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: dotted;
+	border-top-color: #333;
+	border-right-color: #333;
+	border-bottom-color: #333;
+	border-left-color: #333;
+	padding-left: 15px;
+}
+
+.result_left {
+	float: left;
+	width: 590px;
+}
+#sign {
+	font-weight: bold;
+	float: right;
+	width: 280px;
+}

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_subject" value="name:subject_id;datatype:int,name:subject_name;datatype:string" />
+	<infoitem key="UD_teachers" value="name:staff_id;datatype:string,name:name;datatype:string" />
+	<infoitem key="UD_class" value="name:class_id;datatype:int,name:class_name;datatype:string" />
+</info>
